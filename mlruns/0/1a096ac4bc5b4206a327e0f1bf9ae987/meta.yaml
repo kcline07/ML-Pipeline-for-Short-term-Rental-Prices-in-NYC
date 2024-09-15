@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1a096ac4bc5b4206a327e0f1bf9ae987/artifacts
+end_time: 1726418965280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a096ac4bc5b4206a327e0f1bf9ae987
+run_name: learned-newt-130
+run_uuid: 1a096ac4bc5b4206a327e0f1bf9ae987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726418951500
+status: 3
+tags: []
+user_id: kim

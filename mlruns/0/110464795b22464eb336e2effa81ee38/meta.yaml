@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/110464795b22464eb336e2effa81ee38/artifacts
+end_time: 1726419840868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 110464795b22464eb336e2effa81ee38
+run_name: intelligent-cow-917
+run_uuid: 110464795b22464eb336e2effa81ee38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726419822129
+status: 4
+tags: []
+user_id: kim

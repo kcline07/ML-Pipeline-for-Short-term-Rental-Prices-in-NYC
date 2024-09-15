@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/504cc19d5ac546e989ac64d49f45abfd/artifacts
+end_time: 1726418651115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 504cc19d5ac546e989ac64d49f45abfd
+run_name: honorable-colt-874
+run_uuid: 504cc19d5ac546e989ac64d49f45abfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726418642576
+status: 4
+tags: []
+user_id: kim

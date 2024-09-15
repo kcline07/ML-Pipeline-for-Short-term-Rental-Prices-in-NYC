@@ -1,0 +1,43 @@
+2024-09-15 13:11:55,267 INFO    MainThread:51512 [wandb_setup.py:_flush():76] Current SDK version is 0.16.0
+2024-09-15 13:11:55,267 INFO    MainThread:51512 [wandb_setup.py:_flush():76] Configure stats pid to 51512
+2024-09-15 13:11:55,267 INFO    MainThread:51512 [wandb_setup.py:_flush():76] Loading settings from /home/kim/.config/wandb/settings
+2024-09-15 13:11:55,267 INFO    MainThread:51512 [wandb_setup.py:_flush():76] Loading settings from /home/kim/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/settings
+2024-09-15 13:11:55,267 INFO    MainThread:51512 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'run_group': 'development', 'project': 'nyc_airbnb'}
+2024-09-15 13:11:55,267 INFO    MainThread:51512 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-09-15 13:11:55,267 WARNING MainThread:51512 [wandb_setup.py:_flush():76] Could not save program above cwd: /home/kim/miniconda3/envs/mlflow-0e3e9996fc7d3d9f28abdba2bdb15f5d56c90dc1/bin/pytest
+2024-09-15 13:11:55,267 INFO    MainThread:51512 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': None, 'program_abspath': '/home/kim/miniconda3/envs/mlflow-0e3e9996fc7d3d9f28abdba2bdb15f5d56c90dc1/bin/pytest', 'program': '/home/kim/miniconda3/envs/mlflow-0e3e9996fc7d3d9f28abdba2bdb15f5d56c90dc1/bin/pytest'}
+2024-09-15 13:11:55,267 INFO    MainThread:51512 [wandb_init.py:_log_setup():524] Logging user logs to /home/kim/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240915_131155-xkj80f89/logs/debug.log
+2024-09-15 13:11:55,267 INFO    MainThread:51512 [wandb_init.py:_log_setup():525] Logging internal logs to /home/kim/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240915_131155-xkj80f89/logs/debug-internal.log
+2024-09-15 13:11:55,267 INFO    MainThread:51512 [wandb_init.py:init():564] calling init triggers
+2024-09-15 13:11:55,267 INFO    MainThread:51512 [wandb_init.py:init():571] wandb.init called with sweep_config: {}
+config: {}
+2024-09-15 13:11:55,267 INFO    MainThread:51512 [wandb_init.py:init():614] starting backend
+2024-09-15 13:11:55,267 INFO    MainThread:51512 [wandb_init.py:init():618] setting up manager
+2024-09-15 13:11:55,267 INFO    MainThread:51512 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-09-15 13:11:55,268 INFO    MainThread:51512 [wandb_init.py:init():624] backend started and connected
+2024-09-15 13:11:55,269 INFO    MainThread:51512 [wandb_init.py:init():716] updated telemetry
+2024-09-15 13:11:55,272 INFO    MainThread:51512 [wandb_init.py:init():749] communicating run to backend with 90.0 second timeout
+2024-09-15 13:11:55,601 INFO    MainThread:51512 [wandb_run.py:_on_init():2254] communicating current version
+2024-09-15 13:11:55,715 INFO    MainThread:51512 [wandb_run.py:_on_init():2263] got version response upgrade_message: "wandb version 0.18.0 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-09-15 13:11:55,715 INFO    MainThread:51512 [wandb_init.py:init():800] starting run threads in backend
+2024-09-15 13:11:56,198 INFO    MainThread:51512 [wandb_run.py:_console_start():2233] atexit reg
+2024-09-15 13:11:56,198 INFO    MainThread:51512 [wandb_run.py:_redirect():2088] redirect: wrap_raw
+2024-09-15 13:11:56,198 INFO    MainThread:51512 [wandb_run.py:_redirect():2153] Wrapping output streams.
+2024-09-15 13:11:56,198 INFO    MainThread:51512 [wandb_run.py:_redirect():2178] Redirects installed.
+2024-09-15 13:11:56,199 INFO    MainThread:51512 [wandb_init.py:init():841] run started, returning control to user process
+2024-09-15 13:11:56,916 INFO    MainThread:51512 [wandb_setup.py:_flush():76] Current SDK version is 0.16.0
+2024-09-15 13:11:56,916 INFO    MainThread:51512 [wandb_setup.py:_flush():76] Configure stats pid to 51512
+2024-09-15 13:11:56,916 INFO    MainThread:51512 [wandb_setup.py:_flush():76] Loading settings from /home/kim/.config/wandb/settings
+2024-09-15 13:11:56,916 INFO    MainThread:51512 [wandb_setup.py:_flush():76] Loading settings from /home/kim/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/settings
+2024-09-15 13:11:56,916 INFO    MainThread:51512 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'run_group': 'development', 'project': 'nyc_airbnb'}
+2024-09-15 13:11:56,916 INFO    MainThread:51512 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-09-15 13:11:56,916 WARNING MainThread:51512 [wandb_setup.py:_flush():76] Could not save program above cwd: /home/kim/miniconda3/envs/mlflow-0e3e9996fc7d3d9f28abdba2bdb15f5d56c90dc1/bin/pytest
+2024-09-15 13:11:56,916 INFO    MainThread:51512 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': None, 'program_abspath': '/home/kim/miniconda3/envs/mlflow-0e3e9996fc7d3d9f28abdba2bdb15f5d56c90dc1/bin/pytest', 'program': '/home/kim/miniconda3/envs/mlflow-0e3e9996fc7d3d9f28abdba2bdb15f5d56c90dc1/bin/pytest'}
+2024-09-15 13:11:56,916 INFO    MainThread:51512 [wandb_init.py:_log_setup():524] Logging user logs to /home/kim/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240915_131156-xkj80f89/logs/debug.log
+2024-09-15 13:11:56,916 INFO    MainThread:51512 [wandb_init.py:_log_setup():525] Logging internal logs to /home/kim/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240915_131156-xkj80f89/logs/debug-internal.log
+2024-09-15 13:11:56,916 INFO    MainThread:51512 [wandb_init.py:init():564] calling init triggers
+2024-09-15 13:11:56,916 INFO    MainThread:51512 [wandb_init.py:init():571] wandb.init called with sweep_config: {}
+config: {}
+2024-09-15 13:11:56,916 INFO    MainThread:51512 [wandb_init.py:init():609] wandb.init() called when a run is still active
+2024-09-15 13:12:00,316 WARNING MsgRouterThr:51512 [router.py:message_loop():77] message_loop has been closed

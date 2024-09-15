@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/36a1aaa7e9754542b998c46950130963/artifacts
+end_time: 1726418965156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36a1aaa7e9754542b998c46950130963
+run_name: sassy-loon-735
+run_uuid: 36a1aaa7e9754542b998c46950130963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726418953729
+status: 3
+tags: []
+user_id: kim

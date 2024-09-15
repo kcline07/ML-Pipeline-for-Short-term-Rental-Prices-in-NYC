@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9b09cdce50d444038f0349828858a953/artifacts
+end_time: 1726420320782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b09cdce50d444038f0349828858a953
+run_name: bedecked-boar-994
+run_uuid: 9b09cdce50d444038f0349828858a953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726420311698
+status: 3
+tags: []
+user_id: kim

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ecc48f6b9a9442798ac800d31afd57f8/artifacts
+end_time: 1726418651266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecc48f6b9a9442798ac800d31afd57f8
+run_name: carefree-stag-64
+run_uuid: ecc48f6b9a9442798ac800d31afd57f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726418640652
+status: 4
+tags: []
+user_id: kim

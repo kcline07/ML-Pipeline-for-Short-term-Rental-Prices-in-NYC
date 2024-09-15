@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4038c56932f543e980cc870bfb4f7db7/artifacts
+end_time: 1726417895143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4038c56932f543e980cc870bfb4f7db7
+run_name: calm-fowl-497
+run_uuid: 4038c56932f543e980cc870bfb4f7db7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726417843064
+status: 3
+tags: []
+user_id: kim

@@ -1,5 +1,4 @@
 import json
-
 import mlflow
 import tempfile
 import os
@@ -16,9 +15,8 @@ _steps = [
     # NOTE: We do not include this in the steps so it is not run by mistake.
     # You first need to promote a model export to "prod" before you can run this,
     # then you need to run this step explicitly
-#    "test_regression_model"
+    # "test_regression_model"
 ]
-
 
 # This automatically reads in the configuration
 @hydra.main(config_name='config')
@@ -50,16 +48,32 @@ def go(config: DictConfig):
             )
 
         if "basic_cleaning" in active_steps:
-            ##################
-            # Implement here #
-            ##################
-            pass
+            _ = mlflow.run(
+                os.path.join(hydra.utils.get_original_cwd(), "src", "basic_cleaning"),
+                "main",
+                parameters={
+                    "input_artifact": "sample.csv:latest",
+                    "output_artifact": "clean_sample.csv",
+                    "output_type": "clean_sample",
+                    "output_description": "Data with outliers and null values removed",
+                    "min_price": config['etl']['min_price'],
+                    "max_price": config['etl']['max_price']
+                },
+            )
 
         if "data_check" in active_steps:
-            ##################
-            # Implement here #
-            ##################
-            pass
+            _ = mlflow.run(
+                os.path.join(hydra.utils.get_original_cwd(), "src", "data_check"),
+                "main",
+                parameters={
+                    "csv": "clean_sample.csv:latest",
+                    "ref": "clean_sample.csv:reference",
+                    "kl_threshold": config["data_check"]["kl_threshold"],
+                    "min_price": config['etl']['min_price'],
+                    "max_price": config['etl']['max_price']
+                },
+            )
+
 
         if "data_split" in active_steps:
             ##################
@@ -76,21 +90,23 @@ def go(config: DictConfig):
 
             # NOTE: use the rf_config we just created as the rf_config parameter for the train_random_forest
             # step
-
-            ##################
-            # Implement here #
-            ##################
-
-            pass
+            _ = mlflow.run(
+                os.path.join(hydra.utils.get_original_cwd(), "src", "train_random_forest"),
+                "main",
+                parameters={
+                    "input_artifact": "train_data.csv:latest",
+                    "output_artifact": "random_forest_model.pkl",
+                    "output_type": "random_forest_model",
+                    "output_description": "Trained Random Forest model",
+                    "rf_config": rf_config
+                }
+            )
 
         if "test_regression_model" in active_steps:
-
             ##################
             # Implement here #
             ##################
-
             pass
-
 
 if __name__ == "__main__":
     go()

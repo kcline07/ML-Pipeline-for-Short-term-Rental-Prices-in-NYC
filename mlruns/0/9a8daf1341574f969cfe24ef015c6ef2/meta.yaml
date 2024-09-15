@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9a8daf1341574f969cfe24ef015c6ef2/artifacts
+end_time: 1726420230667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a8daf1341574f969cfe24ef015c6ef2
+run_name: hilarious-mule-471
+run_uuid: 9a8daf1341574f969cfe24ef015c6ef2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726420207326
+status: 4
+tags: []
+user_id: kim
