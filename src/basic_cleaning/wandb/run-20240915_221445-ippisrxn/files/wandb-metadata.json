@@ -1,0 +1,178 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-09-16T02:14:46.174898",
+    "startedAt": "2024-09-16T02:14:45.742876",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "sample.csv:latest",
+        "--output_artifact",
+        "clean_sample.csv",
+        "--output_type",
+        "clean_sample",
+        "--output_description",
+        "Data with outliers and null values removed",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/home/kim/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py",
+    "codePath": "src/basic_cleaning/run.py",
+    "git": {
+        "remote": "https://github.com/kcline07/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "d5a516407541ece4adda50488c36f73629b65cf1"
+    },
+    "email": null,
+    "root": "/home/kim/Project-Build-an-ML-Pipeline-Starter",
+    "host": "GreenMonster-v2",
+    "username": "kim",
+    "executable": "/home/kim/miniconda3/envs/mlflow-67fae5f6915c21af0c99fcafece39605e8fd1c80/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 3417.5979999999986,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 31.779537200927734
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 31.235851287841797
+    }
+}

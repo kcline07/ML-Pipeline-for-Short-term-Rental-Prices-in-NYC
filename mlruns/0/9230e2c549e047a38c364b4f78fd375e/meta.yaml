@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9230e2c549e047a38c364b4f78fd375e/artifacts
+end_time: 1726451294969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9230e2c549e047a38c364b4f78fd375e
+run_name: bedecked-skink-599
+run_uuid: 9230e2c549e047a38c364b4f78fd375e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726451283973
+status: 4
+tags: []
+user_id: kim

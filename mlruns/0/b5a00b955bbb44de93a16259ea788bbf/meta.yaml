@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b5a00b955bbb44de93a16259ea788bbf/artifacts
+end_time: 1726425023343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5a00b955bbb44de93a16259ea788bbf
+run_name: clumsy-foal-92
+run_uuid: b5a00b955bbb44de93a16259ea788bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726424984896
+status: 4
+tags: []
+user_id: kim

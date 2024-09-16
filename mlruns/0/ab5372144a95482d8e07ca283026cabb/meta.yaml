@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ab5372144a95482d8e07ca283026cabb/artifacts
+end_time: 1726424301143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab5372144a95482d8e07ca283026cabb
+run_name: zealous-carp-623
+run_uuid: ab5372144a95482d8e07ca283026cabb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726424257365
+status: 4
+tags: []
+user_id: kim

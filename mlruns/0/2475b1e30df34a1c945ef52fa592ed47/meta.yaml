@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2475b1e30df34a1c945ef52fa592ed47/artifacts
+end_time: 1726451943452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2475b1e30df34a1c945ef52fa592ed47
+run_name: gregarious-trout-669
+run_uuid: 2475b1e30df34a1c945ef52fa592ed47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726451934143
+status: 3
+tags: []
+user_id: kim

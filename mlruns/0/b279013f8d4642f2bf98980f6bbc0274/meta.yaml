@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b279013f8d4642f2bf98980f6bbc0274/artifacts
+end_time: 1726450672372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b279013f8d4642f2bf98980f6bbc0274
+run_name: hilarious-donkey-643
+run_uuid: b279013f8d4642f2bf98980f6bbc0274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726450661591
+status: 3
+tags: []
+user_id: kim

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/98589ef5b7494c899cfc5e97a516a8ea/artifacts
+end_time: 1726453073133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98589ef5b7494c899cfc5e97a516a8ea
+run_name: burly-vole-179
+run_uuid: 98589ef5b7494c899cfc5e97a516a8ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726453064008
+status: 3
+tags: []
+user_id: kim

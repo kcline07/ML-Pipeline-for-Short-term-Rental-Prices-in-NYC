@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/436ff5f5447b4ad4a844bf80e0db26c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 436ff5f5447b4ad4a844bf80e0db26c3
+run_name: big-skink-122
+run_uuid: 436ff5f5447b4ad4a844bf80e0db26c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726425927210
+status: 1
+tags: []
+user_id: kim

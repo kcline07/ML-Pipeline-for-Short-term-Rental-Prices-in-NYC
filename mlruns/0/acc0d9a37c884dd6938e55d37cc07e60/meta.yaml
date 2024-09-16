@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/acc0d9a37c884dd6938e55d37cc07e60/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acc0d9a37c884dd6938e55d37cc07e60
+run_name: judicious-trout-705
+run_uuid: acc0d9a37c884dd6938e55d37cc07e60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726447576434
+status: 1
+tags: []
+user_id: kim

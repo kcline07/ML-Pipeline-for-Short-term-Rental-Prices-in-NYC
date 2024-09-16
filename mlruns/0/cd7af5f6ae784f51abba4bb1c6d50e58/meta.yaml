@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cd7af5f6ae784f51abba4bb1c6d50e58/artifacts
+end_time: 1726446514496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd7af5f6ae784f51abba4bb1c6d50e58
+run_name: selective-shad-594
+run_uuid: cd7af5f6ae784f51abba4bb1c6d50e58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726446500356
+status: 4
+tags: []
+user_id: kim

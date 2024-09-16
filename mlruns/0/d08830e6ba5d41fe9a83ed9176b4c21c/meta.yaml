@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d08830e6ba5d41fe9a83ed9176b4c21c/artifacts
+end_time: 1726443967067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d08830e6ba5d41fe9a83ed9176b4c21c
+run_name: bedecked-owl-320
+run_uuid: d08830e6ba5d41fe9a83ed9176b4c21c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726443950452
+status: 3
+tags: []
+user_id: kim

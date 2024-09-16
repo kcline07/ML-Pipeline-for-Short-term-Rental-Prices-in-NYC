@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eda01ccb17cf4f94ae9f6d2fbbdaa9c5/artifacts
+end_time: 1726424292376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eda01ccb17cf4f94ae9f6d2fbbdaa9c5
+run_name: kindly-elk-329
+run_uuid: eda01ccb17cf4f94ae9f6d2fbbdaa9c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726424283690
+status: 4
+tags: []
+user_id: kim

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e2e028d295704b9fb0a48f5902395a8c/artifacts
+end_time: 1726455937662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2e028d295704b9fb0a48f5902395a8c
+run_name: mysterious-frog-458
+run_uuid: e2e028d295704b9fb0a48f5902395a8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726455921276
+status: 3
+tags: []
+user_id: kim

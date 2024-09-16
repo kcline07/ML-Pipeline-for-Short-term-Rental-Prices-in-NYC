@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0b7f60d544634feebeb1626771e26006/artifacts
+end_time: 1726448763415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b7f60d544634feebeb1626771e26006
+run_name: shivering-seal-97
+run_uuid: 0b7f60d544634feebeb1626771e26006
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726448747651
+status: 3
+tags: []
+user_id: kim

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5910d55367394849b6a24ce0a988bd80/artifacts
+end_time: 1726448397778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5910d55367394849b6a24ce0a988bd80
+run_name: righteous-stoat-184
+run_uuid: 5910d55367394849b6a24ce0a988bd80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726448396973
+status: 4
+tags: []
+user_id: kim

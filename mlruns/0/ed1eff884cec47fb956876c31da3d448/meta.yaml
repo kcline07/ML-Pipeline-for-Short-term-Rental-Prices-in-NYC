@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ed1eff884cec47fb956876c31da3d448/artifacts
+end_time: 1726445567667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed1eff884cec47fb956876c31da3d448
+run_name: languid-boar-492
+run_uuid: ed1eff884cec47fb956876c31da3d448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726445552393
+status: 4
+tags: []
+user_id: kim

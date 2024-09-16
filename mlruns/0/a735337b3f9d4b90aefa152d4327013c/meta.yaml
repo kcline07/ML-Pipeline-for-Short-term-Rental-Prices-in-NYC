@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a735337b3f9d4b90aefa152d4327013c/artifacts
+end_time: 1726445304981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a735337b3f9d4b90aefa152d4327013c
+run_name: worried-slug-529
+run_uuid: a735337b3f9d4b90aefa152d4327013c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726445294708
+status: 4
+tags: []
+user_id: kim

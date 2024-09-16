@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/30d61f7566654c09860e1b8eb7c45afa/artifacts
+end_time: 1726427256939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30d61f7566654c09860e1b8eb7c45afa
+run_name: clumsy-steed-581
+run_uuid: 30d61f7566654c09860e1b8eb7c45afa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726427240539
+status: 4
+tags: []
+user_id: kim

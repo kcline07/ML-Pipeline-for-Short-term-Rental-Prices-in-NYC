@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6d3c05c78a2d46be91228726d112248a/artifacts
+end_time: 1726452070678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d3c05c78a2d46be91228726d112248a
+run_name: treasured-zebra-212
+run_uuid: 6d3c05c78a2d46be91228726d112248a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726452051258
+status: 3
+tags: []
+user_id: kim

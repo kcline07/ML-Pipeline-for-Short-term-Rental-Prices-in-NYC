@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/161c5f44932f496ba898561cbd7f19b3/artifacts
+end_time: 1726449544089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 161c5f44932f496ba898561cbd7f19b3
+run_name: redolent-gull-966
+run_uuid: 161c5f44932f496ba898561cbd7f19b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726449525631
+status: 3
+tags: []
+user_id: kim

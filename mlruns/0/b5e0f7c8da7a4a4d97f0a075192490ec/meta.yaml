@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b5e0f7c8da7a4a4d97f0a075192490ec/artifacts
+end_time: 1726424300983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5e0f7c8da7a4a4d97f0a075192490ec
+run_name: delightful-kit-687
+run_uuid: b5e0f7c8da7a4a4d97f0a075192490ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726424292430
+status: 4
+tags: []
+user_id: kim

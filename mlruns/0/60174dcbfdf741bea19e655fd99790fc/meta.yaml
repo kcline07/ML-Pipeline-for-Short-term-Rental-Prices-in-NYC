@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/60174dcbfdf741bea19e655fd99790fc/artifacts
+end_time: 1726448777938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60174dcbfdf741bea19e655fd99790fc
+run_name: serious-shrew-215
+run_uuid: 60174dcbfdf741bea19e655fd99790fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726448763489
+status: 3
+tags: []
+user_id: kim

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/edbfe8b7821540d28f3ee31825875aca/artifacts
+end_time: 1726425450816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edbfe8b7821540d28f3ee31825875aca
+run_name: upbeat-trout-762
+run_uuid: edbfe8b7821540d28f3ee31825875aca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726425428020
+status: 4
+tags: []
+user_id: kim

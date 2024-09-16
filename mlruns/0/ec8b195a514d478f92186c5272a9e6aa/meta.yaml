@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ec8b195a514d478f92186c5272a9e6aa/artifacts
+end_time: 1726425927156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec8b195a514d478f92186c5272a9e6aa
+run_name: industrious-foal-148
+run_uuid: ec8b195a514d478f92186c5272a9e6aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726425917343
+status: 4
+tags: []
+user_id: kim

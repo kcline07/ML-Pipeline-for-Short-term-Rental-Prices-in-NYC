@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a2b175bc7a874b77a2d3023b35abca19/artifacts
+end_time: 1726455909329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2b175bc7a874b77a2d3023b35abca19
+run_name: monumental-dog-379
+run_uuid: a2b175bc7a874b77a2d3023b35abca19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726455442765
+status: 3
+tags: []
+user_id: kim

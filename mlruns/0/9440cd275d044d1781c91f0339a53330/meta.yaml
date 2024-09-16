@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9440cd275d044d1781c91f0339a53330/artifacts
+end_time: 1726445686688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9440cd275d044d1781c91f0339a53330
+run_name: glamorous-sponge-264
+run_uuid: 9440cd275d044d1781c91f0339a53330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726445674298
+status: 4
+tags: []
+user_id: kim

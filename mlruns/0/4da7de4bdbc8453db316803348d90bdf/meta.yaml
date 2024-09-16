@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4da7de4bdbc8453db316803348d90bdf/artifacts
+end_time: 1726425710549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4da7de4bdbc8453db316803348d90bdf
+run_name: sneaky-cod-919
+run_uuid: 4da7de4bdbc8453db316803348d90bdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726425701935
+status: 4
+tags: []
+user_id: kim

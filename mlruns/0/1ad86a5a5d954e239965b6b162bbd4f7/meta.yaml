@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1ad86a5a5d954e239965b6b162bbd4f7/artifacts
+end_time: 1726425917292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ad86a5a5d954e239965b6b162bbd4f7
+run_name: dashing-snail-275
+run_uuid: 1ad86a5a5d954e239965b6b162bbd4f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726425908598
+status: 4
+tags: []
+user_id: kim

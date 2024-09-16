@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9a025e6283d443b3a2c9d1472ce18608/artifacts
+end_time: 1726446514349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a025e6283d443b3a2c9d1472ce18608
+run_name: persistent-panda-158
+run_uuid: 9a025e6283d443b3a2c9d1472ce18608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726446503393
+status: 4
+tags: []
+user_id: kim

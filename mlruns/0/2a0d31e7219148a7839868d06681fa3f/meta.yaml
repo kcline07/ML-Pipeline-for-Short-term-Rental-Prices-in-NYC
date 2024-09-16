@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2a0d31e7219148a7839868d06681fa3f/artifacts
+end_time: 1726454200534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a0d31e7219148a7839868d06681fa3f
+run_name: selective-tern-559
+run_uuid: 2a0d31e7219148a7839868d06681fa3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726453977418
+status: 3
+tags: []
+user_id: kim

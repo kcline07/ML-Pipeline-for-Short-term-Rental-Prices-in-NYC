@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/14190530d1844fd9810983a2ac6b814c/artifacts
+end_time: 1726451295121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14190530d1844fd9810983a2ac6b814c
+run_name: adorable-panda-187
+run_uuid: 14190530d1844fd9810983a2ac6b814c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726451280727
+status: 4
+tags: []
+user_id: kim

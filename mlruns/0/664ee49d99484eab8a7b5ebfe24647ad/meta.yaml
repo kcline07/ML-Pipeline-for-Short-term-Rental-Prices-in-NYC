@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/664ee49d99484eab8a7b5ebfe24647ad/artifacts
+end_time: 1726453789048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 664ee49d99484eab8a7b5ebfe24647ad
+run_name: wistful-wasp-840
+run_uuid: 664ee49d99484eab8a7b5ebfe24647ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726453781656
+status: 3
+tags: []
+user_id: kim

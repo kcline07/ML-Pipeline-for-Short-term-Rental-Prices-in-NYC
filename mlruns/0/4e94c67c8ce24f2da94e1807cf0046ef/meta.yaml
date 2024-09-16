@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4e94c67c8ce24f2da94e1807cf0046ef/artifacts
+end_time: 1726447092733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e94c67c8ce24f2da94e1807cf0046ef
+run_name: burly-ox-555
+run_uuid: 4e94c67c8ce24f2da94e1807cf0046ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726447082397
+status: 4
+tags: []
+user_id: kim

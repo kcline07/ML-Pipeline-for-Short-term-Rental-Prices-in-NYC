@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/042a0460f3604551b0aee2137f839c5b/artifacts
+end_time: 1726446217013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 042a0460f3604551b0aee2137f839c5b
+run_name: worried-doe-252
+run_uuid: 042a0460f3604551b0aee2137f839c5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726446200227
+status: 4
+tags: []
+user_id: kim

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b9cfb32da324493f8fbfceb7c595c5a5/artifacts
+end_time: 1726454243191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9cfb32da324493f8fbfceb7c595c5a5
+run_name: serious-fawn-134
+run_uuid: b9cfb32da324493f8fbfceb7c595c5a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726454229633
+status: 3
+tags: []
+user_id: kim

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f44ca9acf1f3408491ec7737f911dd7b/artifacts
+end_time: 1726423969051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f44ca9acf1f3408491ec7737f911dd7b
+run_name: colorful-dolphin-900
+run_uuid: f44ca9acf1f3408491ec7737f911dd7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726423937074
+status: 4
+tags: []
+user_id: kim

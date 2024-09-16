@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2cb466c621384475b3fd48d2a95d828c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cb466c621384475b3fd48d2a95d828c
+run_name: carefree-skink-660
+run_uuid: 2cb466c621384475b3fd48d2a95d828c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726427830417
+status: 1
+tags: []
+user_id: kim

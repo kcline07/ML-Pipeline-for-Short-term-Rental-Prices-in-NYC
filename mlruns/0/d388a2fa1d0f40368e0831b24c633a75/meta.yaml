@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d388a2fa1d0f40368e0831b24c633a75/artifacts
+end_time: 1726449800803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d388a2fa1d0f40368e0831b24c633a75
+run_name: able-bear-408
+run_uuid: d388a2fa1d0f40368e0831b24c633a75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726449793332
+status: 4
+tags: []
+user_id: kim

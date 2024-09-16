@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3f187eb36502469ab3df0e0ff9958c2e/artifacts
+end_time: 1726445014925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f187eb36502469ab3df0e0ff9958c2e
+run_name: lyrical-sheep-632
+run_uuid: 3f187eb36502469ab3df0e0ff9958c2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726444994331
+status: 4
+tags: []
+user_id: kim

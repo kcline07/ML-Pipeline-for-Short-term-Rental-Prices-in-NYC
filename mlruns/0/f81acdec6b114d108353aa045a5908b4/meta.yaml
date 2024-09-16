@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f81acdec6b114d108353aa045a5908b4/artifacts
+end_time: 1726450642589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f81acdec6b114d108353aa045a5908b4
+run_name: brawny-steed-473
+run_uuid: f81acdec6b114d108353aa045a5908b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726450630955
+status: 3
+tags: []
+user_id: kim

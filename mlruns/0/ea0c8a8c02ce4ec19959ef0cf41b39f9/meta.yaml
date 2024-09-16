@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ea0c8a8c02ce4ec19959ef0cf41b39f9/artifacts
+end_time: 1726450059908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea0c8a8c02ce4ec19959ef0cf41b39f9
+run_name: loud-wolf-464
+run_uuid: ea0c8a8c02ce4ec19959ef0cf41b39f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726450051459
+status: 4
+tags: []
+user_id: kim

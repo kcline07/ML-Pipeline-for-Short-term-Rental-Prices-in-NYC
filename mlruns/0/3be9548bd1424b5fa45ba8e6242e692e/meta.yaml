@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3be9548bd1424b5fa45ba8e6242e692e/artifacts
+end_time: 1726424283633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3be9548bd1424b5fa45ba8e6242e692e
+run_name: crawling-wren-671
+run_uuid: 3be9548bd1424b5fa45ba8e6242e692e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726424269071
+status: 4
+tags: []
+user_id: kim

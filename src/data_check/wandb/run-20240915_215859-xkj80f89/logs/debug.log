@@ -1,0 +1,13 @@
+2024-09-15 21:58:59,400 INFO    MainThread:54138 [wandb_setup.py:_flush():68] Configure stats pid to 54138
+2024-09-15 21:58:59,400 INFO    MainThread:54138 [wandb_setup.py:_flush():68] Loading settings from /home/kim/.config/wandb/settings
+2024-09-15 21:58:59,400 INFO    MainThread:54138 [wandb_setup.py:_flush():68] Loading settings from /home/kim/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/settings
+2024-09-15 21:58:59,400 INFO    MainThread:54138 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True', 'run_group': 'development', 'project': 'nyc_airbnb'}
+2024-09-15 21:58:59,400 WARNING MainThread:54138 [wandb_setup.py:_flush():68] Could not save program above cwd: /home/kim/miniconda3/envs/mlflow-5b75a65da42a9028f7f3db8dc825e2ee9406c537/bin/pytest
+2024-09-15 21:58:59,400 INFO    MainThread:54138 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': None, 'program': '/home/kim/miniconda3/envs/mlflow-5b75a65da42a9028f7f3db8dc825e2ee9406c537/bin/pytest'}
+2024-09-15 21:58:59,400 INFO    MainThread:54138 [wandb_init.py:_log_setup():478] Logging user logs to /home/kim/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240915_215859-xkj80f89/logs/debug.log
+2024-09-15 21:58:59,400 INFO    MainThread:54138 [wandb_init.py:_log_setup():479] Logging internal logs to /home/kim/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240915_215859-xkj80f89/logs/debug-internal.log
+2024-09-15 21:58:59,401 INFO    MainThread:54138 [wandb_init.py:init():518] calling init triggers
+2024-09-15 21:58:59,401 INFO    MainThread:54138 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2024-09-15 21:58:59,401 INFO    MainThread:54138 [wandb_init.py:init():566] wandb.init() called when a run is still active
+2024-09-15 21:59:02,468 WARNING MsgRouterThr:54138 [router.py:message_loop():77] message_loop has been closed

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c667990a17a34fbf8d12fd1c3668ffeb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c667990a17a34fbf8d12fd1c3668ffeb
+run_name: unleashed-robin-776
+run_uuid: c667990a17a34fbf8d12fd1c3668ffeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726427693856
+status: 1
+tags: []
+user_id: kim

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7c2de531c5d84065bb0101821e5edc8c/artifacts
+end_time: 1726450418420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c2de531c5d84065bb0101821e5edc8c
+run_name: serious-perch-933
+run_uuid: 7c2de531c5d84065bb0101821e5edc8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726450409213
+status: 3
+tags: []
+user_id: kim

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0df35ae7897d4c3aafa788b5fc760e03/artifacts
+end_time: 1726451542858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0df35ae7897d4c3aafa788b5fc760e03
+run_name: enthused-fly-631
+run_uuid: 0df35ae7897d4c3aafa788b5fc760e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726451533513
+status: 3
+tags: []
+user_id: kim

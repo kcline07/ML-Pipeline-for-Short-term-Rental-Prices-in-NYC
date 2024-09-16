@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bc9859ee82da401790192c5a5e175794/artifacts
+end_time: 1726443937893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc9859ee82da401790192c5a5e175794
+run_name: persistent-midge-796
+run_uuid: bc9859ee82da401790192c5a5e175794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726443922232
+status: 3
+tags: []
+user_id: kim

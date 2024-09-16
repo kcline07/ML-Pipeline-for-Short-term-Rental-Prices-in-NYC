@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d770958090b04e47a62bf6efe591fdd8/artifacts
+end_time: 1726425701883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d770958090b04e47a62bf6efe591fdd8
+run_name: worried-ant-35
+run_uuid: d770958090b04e47a62bf6efe591fdd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726425693342
+status: 4
+tags: []
+user_id: kim

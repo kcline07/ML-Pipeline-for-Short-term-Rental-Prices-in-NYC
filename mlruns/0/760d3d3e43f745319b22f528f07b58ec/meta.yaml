@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/760d3d3e43f745319b22f528f07b58ec/artifacts
+end_time: 1726426823256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 760d3d3e43f745319b22f528f07b58ec
+run_name: crawling-quail-363
+run_uuid: 760d3d3e43f745319b22f528f07b58ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726426803543
+status: 4
+tags: []
+user_id: kim

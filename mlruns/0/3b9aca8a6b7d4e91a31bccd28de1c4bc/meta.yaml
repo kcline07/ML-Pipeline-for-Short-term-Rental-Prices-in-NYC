@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3b9aca8a6b7d4e91a31bccd28de1c4bc/artifacts
+end_time: 1726450612454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b9aca8a6b7d4e91a31bccd28de1c4bc
+run_name: legendary-bird-321
+run_uuid: 3b9aca8a6b7d4e91a31bccd28de1c4bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726450597523
+status: 3
+tags: []
+user_id: kim

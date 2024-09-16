@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b5933827362f48e8b5e95e2da894922d/artifacts
+end_time: 1726426552303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5933827362f48e8b5e95e2da894922d
+run_name: ambitious-dove-251
+run_uuid: b5933827362f48e8b5e95e2da894922d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726426512315
+status: 4
+tags: []
+user_id: kim

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1de4e3afb9e348619d5a537efd19dbe4/artifacts
+end_time: 1726427256777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1de4e3afb9e348619d5a537efd19dbe4
+run_name: silent-sloth-293
+run_uuid: 1de4e3afb9e348619d5a537efd19dbe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726427242110
+status: 4
+tags: []
+user_id: kim

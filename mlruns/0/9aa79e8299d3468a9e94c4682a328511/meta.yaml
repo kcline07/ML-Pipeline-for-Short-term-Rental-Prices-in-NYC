@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9aa79e8299d3468a9e94c4682a328511/artifacts
+end_time: 1726453713877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9aa79e8299d3468a9e94c4682a328511
+run_name: monumental-fox-218
+run_uuid: 9aa79e8299d3468a9e94c4682a328511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726453701871
+status: 4
+tags: []
+user_id: kim

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b8edc55674174d568f6c82e0f47b4b90/artifacts
+end_time: 1726452868691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8edc55674174d568f6c82e0f47b4b90
+run_name: sedate-turtle-711
+run_uuid: b8edc55674174d568f6c82e0f47b4b90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726452857687
+status: 4
+tags: []
+user_id: kim

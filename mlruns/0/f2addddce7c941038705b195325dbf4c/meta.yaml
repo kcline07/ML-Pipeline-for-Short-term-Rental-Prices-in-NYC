@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f2addddce7c941038705b195325dbf4c/artifacts
+end_time: 1726448259298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2addddce7c941038705b195325dbf4c
+run_name: shivering-trout-839
+run_uuid: f2addddce7c941038705b195325dbf4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726448226439
+status: 4
+tags: []
+user_id: kim

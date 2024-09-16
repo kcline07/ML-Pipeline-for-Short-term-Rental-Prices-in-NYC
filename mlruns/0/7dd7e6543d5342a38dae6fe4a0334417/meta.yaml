@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7dd7e6543d5342a38dae6fe4a0334417/artifacts
+end_time: 1726454229558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7dd7e6543d5342a38dae6fe4a0334417
+run_name: unequaled-shrimp-118
+run_uuid: 7dd7e6543d5342a38dae6fe4a0334417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726454213282
+status: 3
+tags: []
+user_id: kim

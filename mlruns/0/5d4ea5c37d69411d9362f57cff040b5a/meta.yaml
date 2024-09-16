@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5d4ea5c37d69411d9362f57cff040b5a/artifacts
+end_time: 1726443602791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d4ea5c37d69411d9362f57cff040b5a
+run_name: fearless-turtle-404
+run_uuid: 5d4ea5c37d69411d9362f57cff040b5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726443573359
+status: 4
+tags: []
+user_id: kim

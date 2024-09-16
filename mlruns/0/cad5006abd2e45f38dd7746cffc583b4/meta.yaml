@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cad5006abd2e45f38dd7746cffc583b4/artifacts
+end_time: 1726445014782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cad5006abd2e45f38dd7746cffc583b4
+run_name: bold-seal-303
+run_uuid: cad5006abd2e45f38dd7746cffc583b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726444997450
+status: 4
+tags: []
+user_id: kim

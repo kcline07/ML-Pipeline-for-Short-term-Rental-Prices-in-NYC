@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dd253f1fa2794482a0b4238bcf2b99a1/artifacts
+end_time: 1726451806506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd253f1fa2794482a0b4238bcf2b99a1
+run_name: burly-kite-783
+run_uuid: dd253f1fa2794482a0b4238bcf2b99a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726451792836
+status: 3
+tags: []
+user_id: kim

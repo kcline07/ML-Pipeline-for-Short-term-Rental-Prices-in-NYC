@@ -1,0 +1,177 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-09-16T02:54:22.801107",
+    "startedAt": "2024-09-16T02:54:22.147414",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        ".",
+        "-vv",
+        "--csv",
+        "clean_sample.csv:latest",
+        "--ref",
+        "clean_sample.csv:reference",
+        "--kl_threshold",
+        "0.2",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/home/kim/miniconda3/envs/mlflow-5b75a65da42a9028f7f3db8dc825e2ee9406c537/bin/pytest",
+    "git": {
+        "remote": "https://github.com/kcline07/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "d5a516407541ece4adda50488c36f73629b65cf1"
+    },
+    "email": null,
+    "root": "/home/kim/Project-Build-an-ML-Pipeline-Starter",
+    "host": "GreenMonster-v2",
+    "username": "kim",
+    "executable": "/home/kim/miniconda3/envs/mlflow-5b75a65da42a9028f7f3db8dc825e2ee9406c537/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 3417.5979999999986,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 25.409164428710938
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 31.235851287841797
+    }
+}

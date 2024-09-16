@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c8255be76e0a4f00a47d1e15ba2f6f69/artifacts
+end_time: 1726450691087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8255be76e0a4f00a47d1e15ba2f6f69
+run_name: painted-dolphin-488
+run_uuid: c8255be76e0a4f00a47d1e15ba2f6f69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726450672445
+status: 3
+tags: []
+user_id: kim

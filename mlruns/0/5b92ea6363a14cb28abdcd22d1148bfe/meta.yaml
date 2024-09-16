@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5b92ea6363a14cb28abdcd22d1148bfe/artifacts
+end_time: 1726456083219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b92ea6363a14cb28abdcd22d1148bfe
+run_name: smiling-skunk-791
+run_uuid: 5b92ea6363a14cb28abdcd22d1148bfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726456051815
+status: 3
+tags: []
+user_id: kim

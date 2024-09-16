@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f4e7762466b149cb85cc4d020ebb12ec/artifacts
+end_time: 1726424154373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4e7762466b149cb85cc4d020ebb12ec
+run_name: rebellious-auk-618
+run_uuid: f4e7762466b149cb85cc4d020ebb12ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726424152819
+status: 4
+tags: []
+user_id: kim

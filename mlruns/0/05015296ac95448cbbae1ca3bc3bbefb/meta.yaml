@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/05015296ac95448cbbae1ca3bc3bbefb/artifacts
+end_time: 1726449557696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05015296ac95448cbbae1ca3bc3bbefb
+run_name: thoughtful-ape-871
+run_uuid: 05015296ac95448cbbae1ca3bc3bbefb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726449222678
+status: 3
+tags: []
+user_id: kim

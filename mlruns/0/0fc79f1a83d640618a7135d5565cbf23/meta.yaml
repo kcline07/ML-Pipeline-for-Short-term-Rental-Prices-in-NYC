@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0fc79f1a83d640618a7135d5565cbf23/artifacts
+end_time: 1726425464534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fc79f1a83d640618a7135d5565cbf23
+run_name: skillful-colt-821
+run_uuid: 0fc79f1a83d640618a7135d5565cbf23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726425450868
+status: 4
+tags: []
+user_id: kim

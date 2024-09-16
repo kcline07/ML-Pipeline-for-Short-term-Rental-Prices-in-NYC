@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/58facee8d0dd4102a5bec2c72549f84f/artifacts
+end_time: 1726455268821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58facee8d0dd4102a5bec2c72549f84f
+run_name: skittish-bee-28
+run_uuid: 58facee8d0dd4102a5bec2c72549f84f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726455222997
+status: 3
+tags: []
+user_id: kim

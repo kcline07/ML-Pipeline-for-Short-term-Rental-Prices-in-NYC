@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5a8ad20b5b234a67a676affefa63e2c7/artifacts
+end_time: 1726425693291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a8ad20b5b234a67a676affefa63e2c7
+run_name: angry-seal-592
+run_uuid: 5a8ad20b5b234a67a676affefa63e2c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726425684758
+status: 4
+tags: []
+user_id: kim

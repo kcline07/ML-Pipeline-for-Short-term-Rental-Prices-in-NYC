@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4bad09c5f27d4337a3d7ddac47f123fa/artifacts
+end_time: 1726448397920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bad09c5f27d4337a3d7ddac47f123fa
+run_name: treasured-bear-627
+run_uuid: 4bad09c5f27d4337a3d7ddac47f123fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726448394914
+status: 4
+tags: []
+user_id: kim

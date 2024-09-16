@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/967fc9bc7c7442b788a28a7d31c85b8b/artifacts
+end_time: 1726425014504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 967fc9bc7c7442b788a28a7d31c85b8b
+run_name: rumbling-zebra-413
+run_uuid: 967fc9bc7c7442b788a28a7d31c85b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726425005853
+status: 4
+tags: []
+user_id: kim

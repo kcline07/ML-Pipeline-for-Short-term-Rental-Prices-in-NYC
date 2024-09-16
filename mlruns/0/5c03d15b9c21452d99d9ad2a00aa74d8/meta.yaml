@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5c03d15b9c21452d99d9ad2a00aa74d8/artifacts
+end_time: 1726425483157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c03d15b9c21452d99d9ad2a00aa74d8
+run_name: casual-lark-858
+run_uuid: 5c03d15b9c21452d99d9ad2a00aa74d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726425464587
+status: 4
+tags: []
+user_id: kim

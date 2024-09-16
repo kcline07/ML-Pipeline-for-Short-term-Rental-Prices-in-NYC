@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/085f4ad1bbca44d5b8abfd2dfc157918/artifacts
+end_time: 1726451943551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 085f4ad1bbca44d5b8abfd2dfc157918
+run_name: honorable-pig-683
+run_uuid: 085f4ad1bbca44d5b8abfd2dfc157918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726451932074
+status: 3
+tags: []
+user_id: kim

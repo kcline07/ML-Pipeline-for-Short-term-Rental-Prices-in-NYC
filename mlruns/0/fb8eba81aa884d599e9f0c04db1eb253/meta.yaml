@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fb8eba81aa884d599e9f0c04db1eb253/artifacts
+end_time: 1726422336959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb8eba81aa884d599e9f0c04db1eb253
+run_name: casual-deer-281
+run_uuid: fb8eba81aa884d599e9f0c04db1eb253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726422296298
+status: 3
+tags: []
+user_id: kim

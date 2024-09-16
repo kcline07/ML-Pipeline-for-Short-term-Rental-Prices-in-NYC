@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/abcb4e65ab28492fa47ce9cef9f61c7f/artifacts
+end_time: 1726443980686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abcb4e65ab28492fa47ce9cef9f61c7f
+run_name: youthful-toad-543
+run_uuid: abcb4e65ab28492fa47ce9cef9f61c7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726443920632
+status: 3
+tags: []
+user_id: kim

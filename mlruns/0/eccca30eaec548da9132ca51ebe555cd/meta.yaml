@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eccca30eaec548da9132ca51ebe555cd/artifacts
+end_time: 1726423983728
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eccca30eaec548da9132ca51ebe555cd
+run_name: calm-moth-980
+run_uuid: eccca30eaec548da9132ca51ebe555cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726423969105
+status: 4
+tags: []
+user_id: kim

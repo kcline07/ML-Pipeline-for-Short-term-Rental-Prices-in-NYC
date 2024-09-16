@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7428f3f04bd548bf89cac7db7755b98d/artifacts
+end_time: 1726452026841
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7428f3f04bd548bf89cac7db7755b98d
+run_name: sedate-auk-295
+run_uuid: 7428f3f04bd548bf89cac7db7755b98d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726452012092
+status: 3
+tags: []
+user_id: kim

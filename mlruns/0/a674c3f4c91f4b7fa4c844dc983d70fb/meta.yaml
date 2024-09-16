@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a674c3f4c91f4b7fa4c844dc983d70fb/artifacts
+end_time: 1726451542973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a674c3f4c91f4b7fa4c844dc983d70fb
+run_name: shivering-skink-236
+run_uuid: a674c3f4c91f4b7fa4c844dc983d70fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726451530558
+status: 3
+tags: []
+user_id: kim

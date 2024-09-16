@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ae28ea49269347c68af7f6253a4feea0/artifacts
+end_time: 1726446742391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae28ea49269347c68af7f6253a4feea0
+run_name: adaptable-mink-378
+run_uuid: ae28ea49269347c68af7f6253a4feea0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726446730902
+status: 4
+tags: []
+user_id: kim

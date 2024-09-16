@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/75ad8d2c17c443e0b02a837503a4ca1f/artifacts
+end_time: 1726453714023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75ad8d2c17c443e0b02a837503a4ca1f
+run_name: gaudy-ant-38
+run_uuid: 75ad8d2c17c443e0b02a837503a4ca1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726453699719
+status: 4
+tags: []
+user_id: kim

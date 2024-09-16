@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bb4878317b8249fb868918ab18a69951/artifacts
+end_time: 1726447092870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb4878317b8249fb868918ab18a69951
+run_name: unruly-roo-320
+run_uuid: bb4878317b8249fb868918ab18a69951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726447079939
+status: 4
+tags: []
+user_id: kim

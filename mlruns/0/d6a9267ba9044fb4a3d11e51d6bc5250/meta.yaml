@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d6a9267ba9044fb4a3d11e51d6bc5250/artifacts
+end_time: 1726446742252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6a9267ba9044fb4a3d11e51d6bc5250
+run_name: wise-wolf-958
+run_uuid: d6a9267ba9044fb4a3d11e51d6bc5250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726446733484
+status: 4
+tags: []
+user_id: kim

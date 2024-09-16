@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/517eefda30bd4cc7b602abd833a02e0c/artifacts
+end_time: 1726446582126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 517eefda30bd4cc7b602abd833a02e0c
+run_name: blushing-fowl-928
+run_uuid: 517eefda30bd4cc7b602abd833a02e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726446570244
+status: 3
+tags: []
+user_id: kim

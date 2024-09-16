@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dca5fb89471e4b739299c36639d76271/artifacts
+end_time: 1726446631759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dca5fb89471e4b739299c36639d76271
+run_name: respected-croc-401
+run_uuid: dca5fb89471e4b739299c36639d76271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726446567888
+status: 3
+tags: []
+user_id: kim

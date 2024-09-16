@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/16704329baab47a6859787337fa335b1/artifacts
+end_time: 1726424151116
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16704329baab47a6859787337fa335b1
+run_name: awesome-dog-182
+run_uuid: 16704329baab47a6859787337fa335b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726424148988
+status: 4
+tags: []
+user_id: kim

@@ -1,0 +1,167 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-09-16T02:18:33.398993",
+    "startedAt": "2024-09-16T02:18:32.997133",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "src/eda/eda.ipynb",
+    "codePathLocal": null,
+    "root": "/home/kim/Project-Build-an-ML-Pipeline-Starter",
+    "git": {
+        "remote": "https://github.com/kcline07/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "d5a516407541ece4adda50488c36f73629b65cf1"
+    },
+    "email": null,
+    "host": "GreenMonster-v2",
+    "username": "kim",
+    "executable": "/home/kim/miniconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 3417.5979999999986,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 31.798076629638672
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 31.235851287841797
+    }
+}

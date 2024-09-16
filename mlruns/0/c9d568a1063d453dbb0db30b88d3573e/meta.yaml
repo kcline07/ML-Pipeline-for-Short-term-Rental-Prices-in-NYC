@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c9d568a1063d453dbb0db30b88d3573e/artifacts
+end_time: 1726454990812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9d568a1063d453dbb0db30b88d3573e
+run_name: nosy-finch-958
+run_uuid: c9d568a1063d453dbb0db30b88d3573e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726454928027
+status: 3
+tags: []
+user_id: kim

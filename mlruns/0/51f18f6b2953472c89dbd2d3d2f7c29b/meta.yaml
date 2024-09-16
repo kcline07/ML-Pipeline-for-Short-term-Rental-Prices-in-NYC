@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/51f18f6b2953472c89dbd2d3d2f7c29b/artifacts
+end_time: 1726448747579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51f18f6b2953472c89dbd2d3d2f7c29b
+run_name: crawling-lynx-283
+run_uuid: 51f18f6b2953472c89dbd2d3d2f7c29b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726448736093
+status: 3
+tags: []
+user_id: kim

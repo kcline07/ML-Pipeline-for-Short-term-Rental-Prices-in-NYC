@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/776a9c6f442046cd8f2377eaa33b1916/artifacts
+end_time: 1726450661518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 776a9c6f442046cd8f2377eaa33b1916
+run_name: amazing-wasp-890
+run_uuid: 776a9c6f442046cd8f2377eaa33b1916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726450642664
+status: 3
+tags: []
+user_id: kim

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/059f8d9477894627ba57186dc4727f5a/artifacts
+end_time: 1726455152479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 059f8d9477894627ba57186dc4727f5a
+run_name: clumsy-chimp-419
+run_uuid: 059f8d9477894627ba57186dc4727f5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726455105424
+status: 3
+tags: []
+user_id: kim

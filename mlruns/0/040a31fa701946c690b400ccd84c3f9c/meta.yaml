@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/040a31fa701946c690b400ccd84c3f9c/artifacts
+end_time: 1726449525560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 040a31fa701946c690b400ccd84c3f9c
+run_name: salty-shrike-211
+run_uuid: 040a31fa701946c690b400ccd84c3f9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726449514666
+status: 3
+tags: []
+user_id: kim

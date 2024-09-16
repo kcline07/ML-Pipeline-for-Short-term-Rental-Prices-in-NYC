@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c503702f74a84ed39db4b50b26525a11/artifacts
+end_time: 1726451207259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c503702f74a84ed39db4b50b26525a11
+run_name: defiant-moose-759
+run_uuid: c503702f74a84ed39db4b50b26525a11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726451198020
+status: 4
+tags: []
+user_id: kim

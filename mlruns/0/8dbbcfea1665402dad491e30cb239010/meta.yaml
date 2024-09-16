@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8dbbcfea1665402dad491e30cb239010/artifacts
+end_time: 1726423992359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dbbcfea1665402dad491e30cb239010
+run_name: blushing-shad-926
+run_uuid: 8dbbcfea1665402dad491e30cb239010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726423983780
+status: 4
+tags: []
+user_id: kim

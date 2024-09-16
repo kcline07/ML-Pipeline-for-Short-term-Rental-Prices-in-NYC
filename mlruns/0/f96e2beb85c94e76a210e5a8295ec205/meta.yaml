@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f96e2beb85c94e76a210e5a8295ec205/artifacts
+end_time: 1726451207400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f96e2beb85c94e76a210e5a8295ec205
+run_name: selective-gnat-795
+run_uuid: f96e2beb85c94e76a210e5a8295ec205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726451194760
+status: 4
+tags: []
+user_id: kim

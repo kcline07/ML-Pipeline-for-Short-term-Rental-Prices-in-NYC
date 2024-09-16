@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a793b17564d84532a666c4501acec140/artifacts
+end_time: 1726426823414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a793b17564d84532a666c4501acec140
+run_name: invincible-mare-183
+run_uuid: a793b17564d84532a666c4501acec140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726426750217
+status: 4
+tags: []
+user_id: kim
