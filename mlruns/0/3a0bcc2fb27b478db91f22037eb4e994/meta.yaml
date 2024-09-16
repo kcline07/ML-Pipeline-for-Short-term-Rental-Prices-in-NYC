@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3a0bcc2fb27b478db91f22037eb4e994/artifacts
+end_time: 1726491638534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a0bcc2fb27b478db91f22037eb4e994
+run_name: selective-crab-557
+run_uuid: 3a0bcc2fb27b478db91f22037eb4e994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726491577955
+status: 3
+tags: []
+user_id: kim

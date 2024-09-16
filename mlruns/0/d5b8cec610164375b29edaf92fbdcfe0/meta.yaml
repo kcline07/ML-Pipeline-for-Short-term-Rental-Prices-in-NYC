@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d5b8cec610164375b29edaf92fbdcfe0/artifacts
+end_time: 1726491638427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5b8cec610164375b29edaf92fbdcfe0
+run_name: polite-newt-194
+run_uuid: d5b8cec610164375b29edaf92fbdcfe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726491626073
+status: 3
+tags: []
+user_id: kim

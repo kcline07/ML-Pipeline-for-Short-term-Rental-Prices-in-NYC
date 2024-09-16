@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/13ae2f57fac4451bb85df36a92e0a859/artifacts
+end_time: 1726491611778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13ae2f57fac4451bb85df36a92e0a859
+run_name: monumental-roo-383
+run_uuid: 13ae2f57fac4451bb85df36a92e0a859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726491604235
+status: 3
+tags: []
+user_id: kim

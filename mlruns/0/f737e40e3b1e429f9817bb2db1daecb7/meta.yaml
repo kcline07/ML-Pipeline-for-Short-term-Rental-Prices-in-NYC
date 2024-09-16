@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f737e40e3b1e429f9817bb2db1daecb7/artifacts
+end_time: 1726491590196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f737e40e3b1e429f9817bb2db1daecb7
+run_name: languid-skunk-745
+run_uuid: f737e40e3b1e429f9817bb2db1daecb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726491581108
+status: 3
+tags: []
+user_id: kim

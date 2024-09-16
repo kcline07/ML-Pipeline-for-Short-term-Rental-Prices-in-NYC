@@ -13,7 +13,7 @@ flavors:
     serialization_format: cloudpickle
     sklearn_version: 1.3.2
 mlflow_version: 2.1.1
-model_uuid: fb9297c7145f49e59836aa37ad2097c0
+model_uuid: 04b87de1b540438db065ee317b9f5fe5
 saved_input_example_info:
   artifact_path: input_example.json
   pandas_orient: split
@@ -28,4 +28,4 @@ signature:
     "string"}, {"name": "reviews_per_month", "type": "double"}, {"name": "calculated_host_listings_count",
     "type": "long"}, {"name": "availability_365", "type": "long"}]'
   outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
-utc_time_created: '2024-09-16 03:05:42.370517'
+utc_time_created: '2024-09-16 13:00:31.015652'

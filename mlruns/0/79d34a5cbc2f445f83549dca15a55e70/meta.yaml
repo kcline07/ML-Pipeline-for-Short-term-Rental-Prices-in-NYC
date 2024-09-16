@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/79d34a5cbc2f445f83549dca15a55e70/artifacts
+end_time: 1726491736177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79d34a5cbc2f445f83549dca15a55e70
+run_name: blushing-stork-750
+run_uuid: 79d34a5cbc2f445f83549dca15a55e70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726491723376
+status: 3
+tags: []
+user_id: kim

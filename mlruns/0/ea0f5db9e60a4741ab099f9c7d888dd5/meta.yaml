@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kim/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ea0f5db9e60a4741ab099f9c7d888dd5/artifacts
+end_time: 1726491626063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea0f5db9e60a4741ab099f9c7d888dd5
+run_name: industrious-bee-274
+run_uuid: ea0f5db9e60a4741ab099f9c7d888dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726491612813
+status: 3
+tags: []
+user_id: kim
